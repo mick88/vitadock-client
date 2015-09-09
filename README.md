@@ -4,7 +4,7 @@ Vitadock API Client for Python
 This is a basic implementation of [Vitadock API](https://github.com/Medisana/vitadock-api/wiki) client for Python.
 Currently it supports only Cardiodocks (Blood Pressure) measurements, but can be easily extended to support full array of API functionality - pull requests welcome.
 
-This library does not implement authentication [vitadock-auth](https://github.com/gkotsis/vitadock-oauth) is recommended for this purpose. 
+This library does not implement authentication - [vitadock-auth](https://github.com/gkotsis/vitadock-oauth) is recommended for this purpose. 
 
 ## Usage:
 
