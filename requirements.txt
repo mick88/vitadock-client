@@ -1,0 +1,3 @@
+git+https://github.com/mick88/oauthlib.git@6edc359c8fab227eff8d2b34521bff7409d48e55#egg=oauthlib
+requests-oauthlib
+requests
